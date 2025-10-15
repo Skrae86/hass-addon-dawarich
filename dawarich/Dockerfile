@@ -1,4 +1,4 @@
-FROM freikin/dawarich:0.26.7
+FROM freikin/dawarich:0.33.1
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     jq \
